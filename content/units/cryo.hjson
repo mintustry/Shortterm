@@ -1,4 +1,4 @@
-name: "name: Minim
+name: Cryo
 description: s
 type: flying
 speed: 1
@@ -6,7 +6,7 @@ accel: 0.2
 itemCapacity: 48
 drag: 0.01
 flying: true
-details: woah, its worthless
+details: non
 hitSize: 12
 engineSize: 5
 armor: 2
